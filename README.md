@@ -1,19 +1,8 @@
-# Project Title
+# Binary Search Trees
+A binary search tree is a tree data structure where the tree subtrees are arange in a order. Here we would have the left subtree nodes lower than the right sub tree nodes. we would also go further to make sure the tree is balanced. i.e `there is a maximum of 1 in the difference of height of the left and the right subtrees`
 
 ## Requirement & Features
-
-<!-- SETUP:START -->
-## ⚠️ First-time Setup
-This is a fresh clone from the template. Before writing any code 
-
-```bash
- npm init -y --init-type=moduce
-```
-
-```bash
-npm run setup
-```
-<!-- SETUP:END -->
+- 
 
 ## Getting Started
 
@@ -27,7 +16,7 @@ npm run setup
 
 ```bash
 git clone <repo_url>
-cd commit
+cd odin-balance-bst
 ```
 
 2. Install the necessary dependencies
